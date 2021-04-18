@@ -20,8 +20,8 @@
     <!-- Dirac settings -->
     <string name="dirac_title">Potenciador de sonido Mi</string>
     <string name="dirac_summary">Optimizar Calidad del audio</string>
-    <string name="dirac_headset_title">Elija el tipo de auriculares</string>
-    <string name="dirac_preset_title">Elija un ajuste preestablecido</string>
+    <string name="dirac_headset_title">Seleccione el tipo de auriculares</string>
+    <string name="dirac_preset_title">Seleccione un ajuste preestablecido</string>
 
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Por defecto</string>
@@ -44,7 +44,7 @@
     <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
     <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
-    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basicos</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
 
     <!-- Dirac settings: Equalizer presets -->
@@ -59,7 +59,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <string name="dirac_preset_bass_booster">Bass Booster</string>
+    <string name="dirac_preset_bass_booster">Potenciar Bajos</string>
 
     <!-- Display -->
     <string name="display_title">Pantalla</string>
@@ -122,7 +122,7 @@
     <string name="vibration_strength_title">Potencia</string>
 
     <!-- CustomSeekBarPreference -->
-    <string name="edit_value">Elija un nuevo Valor</string>
+    <string name="edit_value">Seleccione un nuevo Valor</string>
     <string name="default_value">Valor por Defecto</string>
     <string name="edit_hint">Valor entre %1$d y %2$d</string>
 </resources>
