@@ -24,12 +24,12 @@
     <string name="dirac_preset_title">Seleccione un ajuste preestablecido</string>
 
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_default">Normales</string>
+    <string name="dirac_headset_default">Predefinido</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
-    <string name="dirac_headset_general">General</string>
-    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_general">Normales</string>
+    <string name="dirac_headset_general_inear">Normales In-Ear</string>
     <string name="dirac_headset_piston_basic">Edición Básica</string>
     <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">Edición Estándar</string>
@@ -44,11 +44,11 @@
     <string name="dirac_headset_cancelling">Cancelación de ruido Mi 3.5mm</string>
     <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
-    <string name="dirac_headset_earphone_basic">Mi Earphones Básicos</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
 
     <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">Normal</string>
+    <string name="dirac_preset_default">Predefinido</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -59,7 +59,7 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <string name="dirac_preset_bass_booster">Potenciar Bajos</string>
+    <string name="dirac_preset_bass_booster">Bajos potenciados</string>
 
     <!-- Display -->
     <string name="display_title">Pantalla</string>
@@ -76,7 +76,7 @@
 
     <string name="kcal_enabled">Encendido</string>
     <string name="kcal_disabled">Apagado</string>
-    <string name="set_on_boot">Establecer en Inicio</string>
+    <string name="set_on_boot">Establecer en el Inicio</string>
     <string name="color_red">Rojo</string>
     <string name="color_green">Verde</string>
     <string name="color_blue">Azul</string>
@@ -90,12 +90,12 @@
     <!-- Presets For KCAL -->
     <string name="presets_dialog_title">Seleccionar Preajuste</string>
     <string name="preset_default">Normal</string>
-    <string name="preset_version_1">Version 1</string>
-    <string name="preset_version_2">Version 2</string>
-    <string name="preset_version_3">Version 3</string>
+    <string name="preset_version_1">Versión 1</string>
+    <string name="preset_version_2">Versión 2</string>
+    <string name="preset_version_3">Versión 3</string>
     <string name="preset_triluminous">Triluminoso</string>
-    <string name="preset_deep_black_white">Profundo Blanco y Negro</string>
-    <string name="preset_deep_natural">Profundo Natural</string>
+    <string name="preset_deep_black_white">Blanco y Negro profundo</string>
+    <string name="preset_deep_natural">Natural profundo</string>
     <string name="preset_cool_amoled">Amoled Frío</string>
     <string name="preset_extreme_amoled">Amoled Extremo</string>
     <string name="preset_warm_amoled">Amoled Cálido</string>
@@ -108,21 +108,21 @@
     <string name="speaker_category">Altavoz</string>
 
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Limpia Altavoz</string>
-    <string name="clear_speaker_summary">Reproduce un sonido de 30 segundos para limpiar el altavoz</string>
+    <string name="clear_speaker_title">Limpiar Altavoz</string>
+    <string name="clear_speaker_summary">Reproduce un sonido por 30 segundos para limpiar el altavoz</string>
     <string name="clear_speaker_description">Ejecute esta función una o dos veces si cree que su altavoz está ligeramente bloqueado por el polvo. Establezca el volumen al máximo.\n\nSi el altavoz está muy bloqueado, ejecute esta funcion de dos a cinco veces mientras agita el dispositivo con el altavoz hacia abajo. </string>
 
     <!-- USB fastcharge -->
     <string name="usb_fastcharge_title">Carga Rápida USB</string>
-    <string name="fastcharge_title">Activar carga rápida USB</string>
-    <string name="fastcharge_summary">Cargar hasta 900mA cuando se conecta a una computadora a través de un puerto USB 3.0</string>
+    <string name="fastcharge_title">Activar carga rápida por USB</string>
+    <string name="fastcharge_summary">Cargar hasta 900 mAh cuando se conecta a una computadora a través de un puerto USB 3.0</string>
 
     <!-- Vibration -->
     <string name="vibration_title">Control de Vibración</string>
-    <string name="vibration_strength_title">Potencia</string>
+    <string name="vibration_strength_title">Intensidad</string>
 
     <!-- CustomSeekBarPreference -->
     <string name="edit_value">Seleccione un nuevo Valor</string>
-    <string name="default_value">Valor por Defecto</string>
+    <string name="default_value">Valor predeterminado</string>
     <string name="edit_hint">Valor entre %1$d y %2$d</string>
 </resources>
